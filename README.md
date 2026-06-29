@@ -31,7 +31,8 @@ It is designed with a clean UI and helps understand frontend development concept
 ---
 
 ## 📸 Screenshot
-(Add your screenshot here)
+<img width="1080" height="2392" alt="17827420441299196555618080402331" src="https://github.com/user-attachments/assets/cbfa00ac-95c2-43d2-b4c6-d4334bca9f0d" />
+
 
 ---
 
@@ -76,6 +77,7 @@ calculator-app/
 
 ## 👨‍💻 Author
 Mansi Jagtap
+
 GitHub: https://github.com/jagtapmansis006-glitch  
 LinkedIn: https://www.linkedin.com/in/mansi-jagtap-849784378?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
